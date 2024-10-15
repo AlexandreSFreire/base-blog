@@ -52,5 +52,4 @@ Integração com Bootstrap: A estrutura é fortemente baseada no framework Boots
 
 
 Licença:
-
 <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
