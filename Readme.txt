@@ -16,7 +16,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório para sua máquina:
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/AlexandreSFreire/base-blog.git
 
 2. Navegue até o diretório do projeto:
 
