@@ -46,9 +46,9 @@ Navegação simples: Um menu de navegação na parte superior facilita a movimen
 
 Artigos em destaque: A página inicial apresenta dois artigos principais com imagens e links para continuar a leitura.
 
-<b>Seção "Sobre":</b> Um espaço dedicado para adicionar informações sobre o blog ou seus autores.
+Seção "Sobre": Um espaço dedicado para adicionar informações sobre o blog ou seus autores.
 
-<b>Integração com Bootstrap:</b> A estrutura é fortemente baseada no framework Bootstrap 5 para facilitar o design e a responsividade.
+Integração com Bootstrap: A estrutura é fortemente baseada no framework Bootstrap 5 para facilitar o design e a responsividade.
 
 
 Licença:
